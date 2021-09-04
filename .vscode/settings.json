@@ -1,0 +1,6 @@
+{
+    "rust-analyzer.server.extraEnv": {
+        "RA_LOG": "lsp_server=debug,error",
+        "RA_LOG_FILE": "/Users/tomas/Documents/sqlparser-rs/output.txt"
+    }
+}
